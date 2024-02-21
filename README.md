@@ -1,2 +1,2 @@
 # Leetcode_Probs_Sol
-This repo is show my consistency and passion for my dsa Journey.
+This repo is to show my consistency and passion for my dsa Journey.
